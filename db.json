@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Komal Kale",
+      "about": "Reading booka, watching movies",
+      "phone": 1234567890
+    },
+    {
+      "id": "2",
+      "name": "sidharth kale",
+      "phone": "4545454545",
+      "about": "music"
+    }
+  ]
+}
