@@ -41,7 +41,6 @@ const Edit = () => {
     }
     return(
         <div className="form">
-             <h1>Add your details to register</h1>
             <form onSubmit={handleSubmit}>
                 <label>Full Name</label>
                 <input type="text" value={name} onChange={(e)=>setName(e.target.value)}/><br/>
@@ -51,7 +50,7 @@ const Edit = () => {
 
                 <label>About</label>
                 <textarea  value={about} onChange={(e)=>setAbout(e.target.value)}/><br/>
-                <input  className="button" type="submit" value="Register" />
+                <input  className="button" type="submit" value="Update" />
             </form>
         </div>
     );

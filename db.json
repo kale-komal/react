@@ -3,20 +3,14 @@
     {
       "id": "1",
       "name": "Komal Kale",
-      "about": "Reading booka, watching movies",
+      "about": "Reading books,watching movies",
       "phone": 1234567890
     },
     {
       "id": "2",
-      "name": "sidharth kale",
-      "phone": "4545454545",
-      "about": "music"
-    },
-    {
-      "id": "f29d",
-      "name": "komal",
-      "phone": "1212121212",
-      "about": "movies"
+      "name": "Shraddha Chougule",
+      "phone": "4215421542",
+      "about": "listing music"
     }
   ]
 }
